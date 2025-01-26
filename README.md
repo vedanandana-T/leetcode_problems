@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vedanandana-T/leetcode_problems/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/vedanandana-T/leetcode_problems/tree/master/0051-n-queens) |
 | [0162-find-peak-element](https://github.com/vedanandana-T/leetcode_problems/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/vedanandana-T/leetcode_problems/tree/master/0179-largest-number) |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/vedanandana-T/leetcode_problems/tree/master/0051-n-queens) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/vedanandana-T/leetcode_problems/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
